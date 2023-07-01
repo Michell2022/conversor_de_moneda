@@ -1,4 +1,4 @@
-# Conversor de Moneda
+# Conversor de Moneda y Temperatura
 
 Este proyecto es un conversor permite realizar conversiones entre diferentes tipos de como monedas y temperaturas. Proporciona una interfaz de usuario intuitiva que permite al usuario seleccionar el tipo de conversión deseada y proporcionar los valores de entrada necesarios. El proyecto ha sido desarrollado utilizando el lenguaje de programación Java y la biblioteca de interfaz gráfica Swing.
 
