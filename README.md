@@ -6,7 +6,7 @@ Este proyecto es un conversor permite realizar conversiones entre diferentes tip
 
 🖱️ Click en la imagen para ver el video!!!
 
-[![Alt text](https://img.youtube.com/vi/hCaVNZxKCuM/0.jpg)](https://www.youtube.com/watch?v=hCaVNZxKCuM)
+[![Alt text](https://img.youtube.com/vi/hCaVNZxKCuM/0.jpg)](https://www.youtube.com/watch?v=hCaVNZxKCuM){:target="_blank"}
 
 # Funcionalidades
 
